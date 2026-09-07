@@ -17,5 +17,11 @@
         "expirydate": "15-06-2030",
         "Allowoffline": false
     },
+{
+        "device_id": "0edf836f84cff735",
+        "key": "amirbokonet",
+        "expirydate": "7-10-2026",
+        "Allowoffline": false
+    },
 ]
 
