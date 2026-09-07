@@ -19,3 +19,10 @@
         "expirydate": "15-06-2030",
         "Allowoffline": false
     },
+
+    {
+        "device_id": "00a2407b125cff96",
+        "key": "ke90",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    },
