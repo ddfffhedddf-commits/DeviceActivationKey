@@ -23,5 +23,11 @@
         "expirydate": "7-10-2026",
         "Allowoffline": false
     },
+ {   
+        "device_id": "6123d938580abd7b",
+        "key": "MR96",
+        "expirydate": "7-10-2026",
+        "Allowoffline": false
+    },
 ]
 
